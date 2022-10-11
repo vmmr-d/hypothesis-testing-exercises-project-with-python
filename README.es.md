@@ -1,6 +1,6 @@
 <!-- hide -->
 
-# Ejercicios de Probar Hipótesis con Python
+# Ejercicios de Prueba de Hipótesis con Python
 
 <!-- endhide -->
 
