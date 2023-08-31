@@ -1,21 +1,23 @@
-<!-- hide -->
-# Ejercicios de Prueba de Hipótesis con Python
-<!-- endhide -->
+<!--hide-->
+# Contraste de hipótesis en Python - Guía paso a paso
+<!--endhide-->
 
-Dentro de este repositorio, encontrarás un archivo llamado `./notebook/problems.ipynb` con los ejercicios que necesitas terminar para completarlo.
+- Resolver los problemas utilizando contrastes de hipótesis y Python.
 
 ## 🌱  Cómo iniciar este proyecto
 
-Este proyecto viene con los archivos necesarios para comenzar a trabajar de inmediato.
+Sigue las siguientes instrucciones:
 
-1. Haz un fork de [este repositorio](https://github.com/4GeeksAcademy/hypothesis-testing-exercises-project-with-python) en tu cuenta de github.
-2. Abre el fork creado recientemente usando una herramienta de aprovisionamiento como [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/es/lesson/como-utilizar-gitpod). Alternativamente, puedes clonarlo en tu computadora local usando el comando `git clone`.
-3. Una vez que haya terminado de abrirse, puedes continuar y abrir el archivo `problems.ipynb` para comenzar a resolver cada ejercicio dentro de Notebook.
+1. Crear un nuevo repositorio haciendo fork en el [proyecto de Git](https://github.com/4GeeksAcademy/hypothesis-testing-exercises-project-with-python) o [haciendo clic aquí](https://github.com/4GeeksAcademy/hypothesis-testing-exercises-project-with-python/fork).
+2. Abre el repositorio creado recientemente en Codespace usando la [extensión del botón de Codespace](https://docs.github.com/en/codespaces/developing-in-codespaces/creating-a-codespace-for-a-repository#creating-a-codespace-for-a-repository).
+3. Una vez que el VSCode del Codespace haya terminado de abrirse, comienza tu proyecto siguiendo las instrucciones a continuación.
 
 ## 🚛 Cómo entregar este proyecto
 
-Una vez que hayas terminado de resolver los ejercicios, asegúrate de confirmar tus cambios, hazle "push" a el fork de tu repositorio y ve a 4Geeks.com para subir el enlace del repositorio.
+Una vez que hayas terminado de resolver los ejercicios, asegúrate de confirmar tus cambios, haz push a tu repositorio y ve a 4Geeks.com para subir el enlace del repositorio.
 
-## Soluciones
+## 📝 Instrucciones
 
-También incorporamos un archivo `solutions.ipynb` que te sugerimos honestamente que solo uses si estás atascado durante más de 30 minutos o si ya has terminado y deseas compararlo con tu enfoque.
+Una vez comiences a trabajar en el proyecto, verás un fichero `./notebook/problems.ipynb` que contiene una serie de ejercicios. Completa cada uno de ellos, uno por uno.
+
+> NOTA: Solución: https://github.com/4GeeksAcademy/hypothesis-testing-exercises-project-with-python/blob/main/notebook/solutions.ipynb
