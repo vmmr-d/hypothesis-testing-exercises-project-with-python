@@ -1,6 +1,6 @@
 {
-	"title" : "Probability Exercises Project in Python",
-	"slug" : "probability-exercises-project-in-python",
+	"title" : "Hypothesis Testing Exercises in Python",
+	"slug" : "hypothesis-testing-exercises-project-with-python",
 	"preview": "https://github.com/4GeeksAcademy/hypothesis-testing-exercises-project-with-python/blob/main/preview.jpeg?raw=true",
 	"solution": "https://github.com/4GeeksAcademy/hypothesis-testing-exercises-project-with-python/blob/main/notebook/solutions.ipynb",
 	"status": "published",
@@ -10,5 +10,5 @@
 	"syntax": "python",
 	"duration" : 2,
     "projectType": "project",
-	"description" : "Use your numpy, pandas and matplotib skills to practice a little about hypothesis testing with Annova and others"
+	"description" : "Use your NumPy, Pandas and Matplotlib skills to practice a little about hypothesis testing with Annova and others"
 }
